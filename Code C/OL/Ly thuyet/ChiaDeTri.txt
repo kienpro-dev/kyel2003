@@ -1,0 +1,9 @@
+/*
+            KỸ THUẬT CHIA ĐỂ TRỊ
+*/
+
+// giải bài toán kích thước n
+// chia bài toán thành các bài toán con có kích thươc nhỏ hơn n
+// giải các bài toán con, tổng hợp lời giải để có lời giải cho bài ban đầu
+// đối với từng bài toán con, ta cũng làm như vậy
+// phân chia như này ta có được những bài toán cơ sở dễ dàng giải đc
