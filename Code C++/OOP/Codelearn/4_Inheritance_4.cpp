@@ -33,21 +33,7 @@ public:
 		this->gender = gender;
 	}
 
-	string getName() {
-		return name;
-	}
-
-	void setName(string name) {
-		this->name = name;
-	}
-
-	string getGender() {
-		return gender;
-	}
-
-	void setGender(string gender) {
-		this->gender = gender;
-	}
+	
 
 	void display() {
 		cout << "Name: " << name << endl;
